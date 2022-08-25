@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:26:59.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="4pbL__dPkf10a4J4DAmb" type="github"><diagram id="MwhBn2rIUzF_btDRxxoe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:46:27.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pEINL2nLQ6BWpFz6Sg3p" version="20.2.7" type="github">
+  <diagram id="MwhBn2rIUzF_btDRxxoe" name="第 1 页">
+    <mxGraphModel dx="1826" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-1" value="作业平台" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="134" width="1250" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-10" value="脚本" style="shape=umlFrame;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="290" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-2" target="bJi-kJI8TYGHtoOPNQzW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-2" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;python&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-5" target="bJi-kJI8TYGHtoOPNQzW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-5" target="bJi-kJI8TYGHtoOPNQzW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本2&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;shell&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-8" target="bJi-kJI8TYGHtoOPNQzW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本3&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;bat&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-11" value="作业" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="280" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-12" target="bJi-kJI8TYGHtoOPNQzW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJi-kJI8TYGHtoOPNQzW-12" target="bJi-kJI8TYGHtoOPNQzW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-12" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;作业1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本1，脚本2&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;执行机器&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;变量&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-13" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-20" value="执行方案" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="300" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;作业2&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-21" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;执行方案1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本1（执行）&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本2（不执行）&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;实际变量（SERVER_MODE=LOCAL)&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="260" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-22" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-21">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-25" value="是作业的实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-28" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;执行方案2&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本1（执行）&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;脚本2（执行）&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;实际变量（SERVER_MODE=DEV)&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="410" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bJi-kJI8TYGHtoOPNQzW-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="bJi-kJI8TYGHtoOPNQzW-28">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
